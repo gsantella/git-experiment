@@ -12,6 +12,17 @@ This will be a paragraph
 
 `This is code`
 
+```go
+// This is some go code.
+package main
+
+import fmt
+
+func main() {
+	fmt.Println("Hello world!")
+}
+```
+
 [Visit GitHub](https://github.com)
 
 **This is Bold** but not this _italics_!!!!
